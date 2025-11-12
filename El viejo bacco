@@ -1,0 +1,24 @@
+el-viejo-bacco/
+│
+├── index.html
+├── productos.html
+├── carrito.html
+├── verificar.html
+├── contacto.html
+│
+├── /css/
+│   └── estilo.css
+│
+├── /js/
+│   ├── main.js
+│   ├── carrito.js
+│   ├── mercadopago.js
+│   └── verificacion.js
+│
+└── /img/
+    ├── logo.png
+    ├── fondo.jpg
+    ├── vino1.jpg
+    ├── vino2.jpg
+    ├── tabaco1.jpg
+    └── pipa.jpg
